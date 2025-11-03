@@ -1,5 +1,3 @@
-package cst4;
-
 import java.util.Scanner;
 
 public class DFAStringAcceptanceChecker {
@@ -35,3 +33,4 @@ public class DFAStringAcceptanceChecker {
         sc.close();
     }
 }
+
